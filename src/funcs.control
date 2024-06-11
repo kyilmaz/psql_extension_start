@@ -1,5 +1,3 @@
-# helloworld.control
 # PostgreSQL extension control file
-comment = 'Sample extension to return "Hello, World!"'
 default_version = '1.0'
 relocatable = true
